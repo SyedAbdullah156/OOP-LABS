@@ -39,19 +39,19 @@ public class Matrix
     {
         int n = matrix.length;
         double[][] minor = new double[n - 1][n - 1];
-        for(int currentRow = 0, minorRow = 0; currentRow < n; currentRow++)
+        for(int matrixRow = 0, minorRow = 0; matrixRow < n; matrixRow++)
         {
-            if(currentRow == rowToRemove)
+            if(matrixRow == rowToRemove)
             {
                 continue;
             }
-            for(int currentCol = 0, minorCol = 0; currentCol < n; currentCol++)
+            for(int matrixCol = 0, minorCol = 0; matrixCol < n; matrixCol++)
             {
-                if(currentCol == colToRemove)
+                if(matrixCol == colToRemove)
                 {
                     continue;
                 }
-                minor[minorRow][minorCol] = matrix[currentRow][currentCol];
+                minor[minorRow][minorCol] = matrix[matrixRow][matrixCol];
                 minorCol++;
             }
             minorRow++;
