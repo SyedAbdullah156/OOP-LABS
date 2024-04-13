@@ -1,3 +1,5 @@
+package Lab_2.Task_4;
+
 /*(Target-Heart-Rate Calculator) While exercising, you can use a heart-rate monitor to see that your heart rate 
 stays within a safe range suggested by your trainers and doctors. According to the American Heart Association (AHA) 
 (www.americanheart.org/presenter.jhtml?identifier=4736), the formula for calculating your maximum heart rate in 

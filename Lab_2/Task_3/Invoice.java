@@ -1,3 +1,4 @@
+package Lab_2.Task_3;
 
 public class Invoice 
 {

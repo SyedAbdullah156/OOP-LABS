@@ -1,3 +1,5 @@
+package Lab_4.Task_2;
+
 /*
  * (Savings Account Class) Create class SavingsAccount. Use a static variable annualInterestRate to store the annual
  * interest rate for all account holders. Each object of the class contains a private instance variable savingsBalance

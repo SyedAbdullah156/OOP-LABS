@@ -1,4 +1,5 @@
-package Task_4;
+package Lab_3.Task_4;
+
 /*
  * (Polling) The Internet and the web are enabling more people to network, join a cause, voice
 opinions, and so on. Recent presidential candidates have used the Internet intensively to get out

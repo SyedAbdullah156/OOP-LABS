@@ -1,3 +1,5 @@
+package Lab_1;
+
 /*
  * (Tabular Output) Write a Java application that uses looping to print the following table of values:
  */

@@ -1,3 +1,5 @@
+package Lab_4.Task_3;
+
 public class Rational 
 {
     private int numerator;

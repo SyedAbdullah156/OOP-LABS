@@ -1,3 +1,5 @@
+package Lab_3.Task_1;
+
 /*Develop a GradeBook class that instructors can use to maintain students’ grades on an exam and display a grade 
 report that includes the grades, class average, lowest grade, and the highest grade. This version of class GradeBook
  stores the grades for one exam in a one-dimensional array. Assume 10 students in each course.

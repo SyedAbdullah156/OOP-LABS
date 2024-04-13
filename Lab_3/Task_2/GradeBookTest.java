@@ -1,4 +1,5 @@
-package Task_2;
+package Lab_3.Task_2;
+
 /*
  * Use the array of objects approach to demonstrate the capabilities of the GradeBook class to present the data in 
  * a tabular format for all the courses that you have studied so far in the 1st and 2nd semester.

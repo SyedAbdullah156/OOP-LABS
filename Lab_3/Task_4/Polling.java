@@ -1,4 +1,4 @@
-package Task_4;
+package Lab_3.Task_4;
 
 public class Polling 
 {

@@ -1,3 +1,5 @@
+package Lab_2.Task_6;
+
 /*(The stack) A stack stores data using first-in, last-out ordering. That is, a stack is like a stack of plates on a
 table—the first plate put down on the table is the last plate to be used. Stacks are controlled through two operations 
 traditionally called push and pop. To put an item on top of the stack, you will use push. To take an item off the 
@@ -5,7 +7,6 @@ stack, you will use pop.The stack of integers can be held by a 10-element array 
 variable tos, which always contains the index of the top of the stack. The Stack( ) constructor initializes tos to
 –1, which indicates an empty stack.Test the Stack class by pushing/popping elements and printing on screen the stack status.
  */
-package Lab_2.Task_6;
 
 class MyStack 
 {

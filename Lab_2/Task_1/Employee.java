@@ -1,3 +1,4 @@
+package Lab_2.Task_1;
 
 public class Employee 
 {

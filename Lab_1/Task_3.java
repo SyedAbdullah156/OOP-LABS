@@ -1,3 +1,5 @@
+package Lab_1;
+
 /*
 In physics, a common useful equation for finding the position s of a body in linear motion at a given time t, based 
 on its initial position s0, initial velocity v0, and rate of acceleration a, is the following:

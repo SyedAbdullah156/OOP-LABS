@@ -1,3 +1,5 @@
+package Lab_4.Task_3;
+
 /*
  * (Rational Numbers) Create a class called Rational for performing arithmetic with fractions. Write a program to 
  * test your class. Use integer variables to represent the private instance variables of the class—the numerator and 

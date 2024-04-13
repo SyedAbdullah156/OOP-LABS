@@ -1,7 +1,8 @@
+package Lab_1;
+
 /* Program: Writing a program that stores a student’s year (Freshman, Sophomore, Junior, or Senior), the number of courses 
 the student is taking, and his or her GPA on a 4.0 scale. Declare variables with the appropriate names and types 
 to hold this information. Print the stored information at the end.*/
-
 import java.util.Scanner;
 public class Task_1
 {

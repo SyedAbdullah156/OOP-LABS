@@ -1,4 +1,4 @@
-
+package Lab_2.Task_4;
 
 public class HeartRates 
 {

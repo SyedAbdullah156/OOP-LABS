@@ -1,3 +1,5 @@
+package Lab_1;
+
 /*(Printing the Decimal Equivalent of a Binary Number) Write an application that inputs an integer containing 
 only 0s and 1s (i.e., a binary integer) and prints its decimal equivalent. [Hint: Use the remainder and division 
 operators to pick off the binary number’s digits one at a time, from right to left. In the decimal number system, 

@@ -1,4 +1,4 @@
-
+package Lab_3.Task_1;
 public class GradeBook 
 {
     private String courseName;

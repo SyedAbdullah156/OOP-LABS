@@ -1,3 +1,5 @@
+package Lab_2.Task_1;
+import java.util.Scanner;
 
 /*(Employee Class) Create a class called Employee that includes three instance variables—a first name (type String),
   a last name (type String) and a monthly salary (double). Provide a constructor that initializes the three instance 
@@ -6,7 +8,6 @@
   Employee objects and display each object’s yearly salary. Then give each Employee a 10% raise and display each 
   Employee’s yearly salary again. */
 
-import java.util.Scanner;
 public class EmployeeTest 
 {
     public static void main(String[] args)

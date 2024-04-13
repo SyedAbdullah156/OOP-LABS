@@ -1,7 +1,8 @@
+package Lab_3.Task_3;
+
 /*
  * Create a matrix class representing the inverse, determinant, transpose of a matrix with the test class also.
  */
-package Task_3;
 
 import java.util.Scanner;
 public class MatrixTest 

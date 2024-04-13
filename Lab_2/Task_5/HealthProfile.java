@@ -1,3 +1,4 @@
+package Lab_2.Task_5;
 
 public class HealthProfile 
 {

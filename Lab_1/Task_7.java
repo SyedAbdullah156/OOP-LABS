@@ -1,3 +1,5 @@
+package Lab_1;
+
 /* (Factorial) Write an application that reads a nonnegative integer and computes and prints its factorial. */
 public class Task_7 
 {
